@@ -7,7 +7,7 @@ __pycache__/
 # Virtual environments
 venv/
 env/
-
+images
 # Data (Only push code; raw data should be downloaded separately by each person)
 data/raw/*.csv
 
